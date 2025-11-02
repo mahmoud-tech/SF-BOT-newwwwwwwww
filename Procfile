@@ -1,1 +1,1 @@
-python3 SF-BOT.py
+web: python3 SF-BOT.py
